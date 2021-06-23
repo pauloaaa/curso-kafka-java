@@ -1,0 +1,22 @@
+com/paulo/kafka/ecommerce/LogService.java
+ com.paulo.kafka.ecommerce.LogService
+com/paulo/kafka/ecommerce/GsonSerializer.java
+ com.paulo.kafka.ecommerce.GsonSerializer
+com/paulo/kafka/ecommerce/Order.java
+ com.paulo.kafka.ecommerce.Order
+com/paulo/kafka/ecommerce/GsonDeserializer.java
+ com.paulo.kafka.ecommerce.GsonDeserializer
+com/paulo/kafka/ecommerce/FraudDetectorService.java
+ com.paulo.kafka.ecommerce.FraudDetectorService
+com/paulo/kafka/ecommerce/Email.java
+ com.paulo.kafka.ecommerce.Email
+com/paulo/kafka/ecommerce/KafkaDispatcher.java
+ com.paulo.kafka.ecommerce.KafkaDispatcher
+com/paulo/kafka/ecommerce/NewOrder.java
+ com.paulo.kafka.ecommerce.NewOrder
+com/paulo/kafka/ecommerce/ConsumerFunction.java
+ com.paulo.kafka.ecommerce.ConsumerFunction
+com/paulo/kafka/ecommerce/KafkaService.java
+ com.paulo.kafka.ecommerce.KafkaService
+com/paulo/kafka/ecommerce/EmailService.java
+ com.paulo.kafka.ecommerce.EmailService
